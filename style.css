@@ -1,0 +1,27 @@
+body{
+    background-color: tomato;
+}
+
+h1{
+    font-size: 24px;
+    color:darkolivegreen;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+strong{
+    font-weight:800;
+    border-color: beige;
+    color:black
+}
+
+#one{
+    font-size: 20px;
+    border-color: burlywood;
+
+}
+
+#two{
+    font-size: 20px;
+    border-color: aliceblue;
+}
