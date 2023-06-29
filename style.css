@@ -18,13 +18,11 @@ strong{
 
 .one{
     font-size: 20px;
-    border-color: burlywood;
-    background-color: darkcyan;
+    font-weight: 500;
 
 }
 
 .two{
-    font-size: 20px;
-    border-color: aliceblue;
-    background-color: darkkhaki;
+    font-size: 20px; 
+    font-weight: 500;
 }
